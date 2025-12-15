@@ -43,14 +43,14 @@ The `notebooks/` folder contains all our notebooks, which is further organized i
 ## Results
 
 **Accuracy for our models**
-KNN: 0.15
-Logistic Regression: 0.20
-SVM: 0.25
-Zero-Shot LLM: 0.20
-DeBERTa: 0.13
-RoBERTa: 0.16
-BERTweet: 0.28
-Improved BERTweet: 0.30
+- KNN: 0.15
+- Logistic Regression: 0.20
+- SVM: 0.25
+- Zero-Shot LLM: 0.20
+- DeBERTa: 0.13
+- RoBERTa: 0.16
+- BERTweet: 0.28
+- Improved BERTweet: 0.30
 
 Emoji prediction is a challenging task due to the nuanced and context-dependent nature of emoji usage. Many emojis are interchangeable or convey similar emotions, and they are often used ironically or in rapidly evolving social contexts. Tweets are typically short and provide limited textual context, which makes disambiguating the intended emoji even harder.
 
